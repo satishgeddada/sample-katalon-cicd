@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Creation of a Regular Deposit</description>
-   <name>Check the Katalon wiki</name>
+   <name>Check the Katalon support mail</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b615427c-b99d-421c-9bd3-cd942d392f27</testCaseGuid>
